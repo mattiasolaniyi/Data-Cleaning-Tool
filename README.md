@@ -58,3 +58,12 @@ You can install the required libraries with `pip`:
 
 ```bash
 pip install pandas numpy matplotlib seaborn
+
+
+---
+
+### Updates in the README:
+- **Data Source**: The dataset is now referenced from [Kaggle's Customer Shopping Dataset](https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset).
+- **Sample Data**: The example dataset shown is now relevant to the **Customer Shopping Dataset** with sample columns like **Age**, **Gender**, **Product**, **Price**, and **Rating**.
+
+Let me know if you'd like any more changes!
